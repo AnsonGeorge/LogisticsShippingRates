@@ -1,0 +1,2 @@
+# LogisticsShippingRates
+Practical session 
